@@ -1,0 +1,1113 @@
+.zong{
+	width: 960px;
+	font-size: 0px;
+	margin: 0 auto;
+	position: relative;
+}
+.header{
+	width: 960px;
+	height: 50.5px;
+	margin: 0 auto;
+	position: relative;
+}
+	.photo img{
+		width:85px;
+		height:19.5px;
+		position: absolute;
+		top: 16.5px;
+		bottom: 14.5px;
+		left: 184.5px;
+		display: inline-block;
+	}
+	.wenzi{
+		width:120.5px;
+		height:9px;
+		margin-top: 21px;
+		margin-left: 309px;
+		display: inline-block;
+	}
+	.a{
+		width: 40px;
+		height: 9px;
+		font-size:9px;
+		font-family:Microsoft YaHei;
+		font-weight:400;
+		color:rgba(5,5,5,1);
+		display: inline-block;
+	}
+	#aa{
+		border-bottom: solid blue 2px;
+	}
+	a{
+		color: black;
+	}
+	a:hover{
+		color: coral;
+	}
+	.form{
+		position: absolute;
+		left: 523px;
+		top: 15.5px;
+	}
+	.search{
+		width: 180px;
+		height: 20px;
+		border: 1px blue dashed;
+		font-size:7px;
+		font-family:Microsoft YaHei;
+		font-weight:400;
+		color:rgba(191,191,191,1);
+		line-height:15px;
+	}
+	.submit{
+		width: 25.5px;
+		height: 20px;
+		background-color: blue;
+		background-image: url(../椭圆 1 拷贝 3@2x.png);
+		border: 1px black dashed;
+	}
+	.people{
+		position: absolute;
+		left: 744px;
+		top: 20px;
+		display: inline-block;
+		width:40px;
+		height:6px;
+		font-size:7px;
+	}
+.body1{
+	margin: 0 auto;
+	width: 960px;
+	height: 210px;
+	background-color:rgba(20,3,168,1);
+	position: relative;
+}
+	.banner2 img{
+		width: 600px;
+		height: 210px; 
+		position: absolute;
+		top: 0px;
+		left: 195px;
+		border: 1px white dashed;
+	}
+	.beijing{
+		width: 95px;
+		height: 210px;
+		position: absolute;
+		top: 0;
+		left: 180px;
+		border: 1px white dashed;
+		background-color: rgba(20,3,88,0.5);
+	}
+	.tuo{
+		width: 50.5px;
+		height: 182.5px;
+		position: absolute;
+		top: 13.5px;
+		left: 10px;
+
+	}
+	ul{
+		width:70px;
+		height:20px;
+		font-size:7px;
+		color:rgba(255,255,255,0.75);
+		line-height:20px;
+	}
+	.ul{
+		color: blue;
+	}
+	.tuo2{
+		width: 3px;
+		height: 182.5px;
+		position: absolute;
+		top: 13.5px;
+		left: 80px;
+	}
+	.body2{
+		width: 602.5px;
+		height: 32.5px;
+		position: absolute;
+		top: 264.5px;
+		left: 180px;
+		border: 1px black dashed;
+	}
+	.wenzi1{
+		width: 552.5px;
+		height: 9px;
+		position: absolute;
+		top: 10.5;
+		left: 18px;
+	}
+	.li1{
+		width: 552.5px;
+		height: 9px;
+		position: absolute;
+		left: 18px;
+		position: absolute;
+		top: 5.5px;
+	}
+	.ul2{
+		width:55px;
+		height:9px;
+		font-size:8px;
+		font-weight:bold;
+		color:black;
+		text-align: center;
+		display: inline-block;
+		border-right:1px black dashed; 
+	}
+	.ul3{
+		width:55px;
+		height:9px;
+		font-size:8px;
+		font-weight:bold;
+		color:rgba(0,164,255,1);
+		text-align: center;
+		display: inline-block;
+		border-right:1px rgba(191,191,191,1) dashed; 
+	}
+	.ul4{
+		float: right;
+		width:55px;
+		height:9px;
+		font-size:8px;
+		font-weight:bold;
+		color:rgba(0,164,255,1);
+		text-align: center;
+		display: inline-block;
+	}
+.body3{
+	position: absolute;
+	top: 297px;
+	left: 180px;
+	width: 600px;
+}
+	.div1 a{
+		width:40px;
+		height:10px;
+		font-size:10px;
+		font-family:Microsoft YaHei;
+		font-weight:400;
+		color:rgba(73,73,73,1);
+		position: absolute;
+		top: 16px;
+		left: 1px;
+	}
+	.div2 a{
+		width:40px;
+		height:6px;
+		font-size:6px;
+		font-weight:400;
+		color:rgba(165,165,165,1);
+		position: absolute;
+		top: 18px;
+		right: 17px;
+	}
+	.picture1 img{
+		width: 116.5px;
+		height: 77.5px;
+		position: absolute;
+		top: 35px;
+		left: 2px;
+	}
+	.picture2 img{
+		width: 118.5px;
+		height: 62px;
+		position: absolute;
+		top: 113.5px;
+	}
+	.picture3 img{
+		width: 116.5px;
+		height: 77.5px;
+		position: absolute;
+		top: 35px;
+		left: 123.5px;
+	}
+	.picture4 img{
+		width: 118.5px;
+		height: 62px;
+		position: absolute;
+		top: 113.5px;
+		left: 122.5px;
+	}
+	.picture5 img{
+		width: 116.5px;
+		height: 77.5px;
+		position: absolute;
+		top: 35px;
+		left: 244px;
+	}
+	.picture6 img{
+		width: 118.5px;
+		height: 62px;
+		position: absolute;
+		top: 113.5px;
+		left: 243px;
+	}
+	.picture7 img{
+		width: 116.5px;
+		height: 77.5px;
+		position: absolute;
+		top: 35px;
+		left: 364.5px;
+	}
+	.picture8 img{
+		width: 118.5px;
+		height: 62px;
+		position: absolute;
+		top: 113.5px;
+		left: 363.5px;
+	}
+	.picture9 img{
+		width: 116.5px;
+		height: 77.5px;
+		position: absolute;
+		top: 35px;
+		right: 0px;
+	}
+	.picture10 img{
+		width: 118.5px;
+		height: 62px;
+		position: absolute;
+		top: 113.5px;
+		right: 0;
+	}
+	.picture11 img{
+		width: 116.5px;
+		height: 77.5px;
+		position: absolute;
+		top: 178.5px;
+		left: 2px;
+	}
+	.picture12 img{
+		width: 118.5px;
+		height: 62px;
+		position: absolute;
+		top: 256px;
+	}
+	.picture13 img{
+		width: 116.5px;
+		height: 77.5px;
+		position: absolute;
+		top: 178.5px;
+		left: 123.5px;
+	}
+	.picture14 img{
+		width: 118.5px;
+		height: 62px;
+		position: absolute;
+		top: 256px;
+		left: 122.5px;
+	}
+	.picture15 img{
+		width: 116.5px;
+		height: 77.5px;
+		position: absolute;
+		top: 178.5px;
+		left: 244px;
+	}
+	.picture16 img{
+		width: 118.5px;
+		height: 62px;
+		position: absolute;
+		top: 256px;
+		left: 243px;
+	}
+	.picture17 img{
+		width: 116.5px;
+		height: 77.5px;
+		position: absolute;
+		top: 178.5px;
+		left: 364.5px;
+	}
+	.picture18 img{
+		width: 118.5px;
+		height: 62px;
+		position: absolute;
+		top: 256px;
+		left: 363.5px;
+	}
+	.picture19 img{
+		width: 116.5px;
+		height: 77.5px;
+		position: absolute;
+		top: 178.5px;
+		right: 0px;
+	}
+	.picture20 img{
+		width: 118.5px;
+		height: 62px;
+		position: absolute;
+		top: 256px;
+		right: 0;
+	}
+
+	span{
+		width: 15px;
+		height: 6.5px;
+		color: rgba(255, 123, 45, 1);
+	}
+	.wenzii1 a{
+		width:92px;
+		height:17px;
+		font-size:7px;
+		font-family:Microsoft YaHei;
+		font-weight:400;
+		color:rgba(5,5,5,1);
+		line-height:10px;
+		position: absolute;
+		top: 125.5px;
+		left: 13.5px;
+	}
+	.wenzii2{
+		width: 100px;
+		height: 6.5px;
+		font-size: 6.5px;
+		font-family:Microsoft YaHei;
+		font-weight:400;
+		color:rgba(108,108,108,1);
+		position: absolute;
+		top: 151.5px;
+		left: 13.5px;
+
+	}
+	.wenzii3 a{
+		width:92px;
+		height:17px;
+		font-size:7px;
+		font-family:Microsoft YaHei;
+		font-weight:400;
+		color:rgba(5,5,5,1);
+		line-height:10px;
+		position: absolute;
+		top: 125.5px;
+		left: 137px;
+	}
+	.wenzii4{
+		width: 100px;
+		height: 6.5px;
+		font-size: 6.5px;
+		font-family:Microsoft YaHei;
+		font-weight:400;
+		color:rgba(108,108,108,1);
+		position: absolute;
+		top: 151.5px;
+		left: 137px;
+	}
+	.wenzii5 a{
+		width:92px;
+		height:17px;
+		font-size:7px;
+		font-family:Microsoft YaHei;
+		font-weight:400;
+		color:rgba(5,5,5,1);
+		line-height:10px;
+		position: absolute;
+		top: 125.5px;
+		left: 259.5px;
+	}
+	.wenzii6{
+		width: 100px;
+		height: 6.5px;
+		font-size: 6.5px;
+		font-family:Microsoft YaHei;
+		font-weight:400;
+		color:rgba(108,108,108,1);
+		position: absolute;
+		top: 151.5px;
+		left: 259.5px;
+	}
+	.wenzii7 a{
+		width:92px;
+		height:17px;
+		font-size:7px;
+		font-family:Microsoft YaHei;
+		font-weight:400;
+		color:rgba(5,5,5,1);
+		line-height:10px;
+		position: absolute;
+		top: 125.5px;
+		left: 382px;
+	}
+	.wenzii8{
+		width: 100px;
+		height: 6.5px;
+		font-size: 6.5px;
+		font-family:Microsoft YaHei;
+		font-weight:400;
+		color:rgba(108,108,108,1);
+		position: absolute;
+		top: 151.5px;
+		left: 382px;
+	}
+	.wenzii9 a{
+		width:92px;
+		height:17px;
+		font-size:7px;
+		font-family:Microsoft YaHei;
+		font-weight:400;
+		color:rgba(5,5,5,1);
+		line-height:10px;
+		position: absolute;
+		top: 125.5px;
+		left: 505.5px;
+	}
+	.wenzii10{
+		width: 100px;
+		height: 6.5px;
+		font-size: 6.5px;
+		font-family:Microsoft YaHei;
+		font-weight:400;
+		color:rgba(108,108,108,1);
+		position: absolute;
+		top: 151.5px;
+		left: 505.5px;
+	}
+	.wenzii11 a{
+		width:92px;
+		height:17px;
+		font-size:7px;
+		font-family:Microsoft YaHei;
+		font-weight:400;
+		color:rgba(5,5,5,1);
+		line-height:10px;
+		position: absolute;
+		top: 269px;
+		left: 13.5px;
+	}
+	.wenzii12{
+		width: 100px;
+		height: 6.5px;
+		font-size: 6.5px;
+		font-family:Microsoft YaHei;
+		font-weight:400;
+		color:rgba(108,108,108,1);
+		position: absolute;
+		top: 295px;
+		left: 13.5px;
+	}
+	.wenzii13 a{
+		width:92px;
+		height:17px;
+		font-size:7px;
+		font-family:Microsoft YaHei;
+		font-weight:400;
+		color:rgba(5,5,5,1);
+		line-height:10px;
+		position: absolute;
+		top: 269px;
+		left: 137px;
+	}
+	.wenzii14{
+		width: 100px;
+		height: 6.5px;
+		font-size: 6.5px;
+		font-family:Microsoft YaHei;
+		font-weight:400;
+		color:rgba(108,108,108,1);
+		position: absolute;
+		top: 295px;
+		left: 137px;
+	}
+	.wenzii15 a{
+		width:92px;
+		height:17px;
+		font-size:7px;
+		font-family:Microsoft YaHei;
+		font-weight:400;
+		color:rgba(5,5,5,1);
+		line-height:10px;
+		position: absolute;
+		top: 269px;
+		left: 259.5px;
+	}
+	.wenzii16{
+		width: 100px;
+		height: 6.5px;
+		font-size: 6.5px;
+		font-family:Microsoft YaHei;
+		font-weight:400;
+		color:rgba(108,108,108,1);
+		position: absolute;
+		top: 295px;
+		left: 259.5px;
+	}
+	.wenzii17 a{
+		width:92px;
+		height:17px;
+		font-size:7px;
+		font-family:Microsoft YaHei;
+		font-weight:400;
+		color:rgba(5,5,5,1);
+		line-height:10px;
+		position: absolute;
+		top: 269px;
+		left: 382px;
+	}
+	.wenzii18{
+		width: 100px;
+		height: 6.5px;
+		font-size: 6.5px;
+		font-family:Microsoft YaHei;
+		font-weight:400;
+		color:rgba(108,108,108,1);
+		position: absolute;
+		top: 295px;
+		left: 382px;
+	}
+	.wenzii19 a{
+		width:92px;
+		height:17px;
+		font-size:7px;
+		font-family:Microsoft YaHei;
+		font-weight:400;
+		color:rgba(5,5,5,1);
+		line-height:10px;
+		position: absolute;
+		top: 269px;
+		left: 505.5px;
+	}
+	.wenzii20{
+		width: 100px;
+		height: 6.5px;
+		font-size: 6.5px;
+		font-family:Microsoft YaHei;
+		font-weight:400;
+		color:rgba(108,108,108,1);
+		position: absolute;
+		top: 295px;
+		left: 505.5px;
+	}
+.body4{
+	position: absolute;
+	top: 605px;
+	left: 180px;
+	width: 600px;
+}
+.div3 a{
+	width:70px;
+	height:10px;
+	font-size:10px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:rgba(73,73,73,1);
+	position: absolute;
+	top: 18.5px;
+	left: 1px;
+}
+.div4 {
+	width:204px;
+	height:8.5px;
+	position: absolute;
+	top: 18.5px;
+	left: 215.5px;
+}
+.uul{
+	width: 51px;
+	height: 8.5px;
+	font-size:8px;
+	font-family:Microsoft YaHei;
+
+	display: inline-block;
+}
+#xuul a{
+	color:rgba(0, 164, 255, 1);
+}
+.div5{
+	width:60px;
+	height:7px;
+	font-size:6px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:rgba(165,165,165,1);
+	position: absolute;
+	top: 0px;
+	left: 330px;
+}
+	.picture21 img{
+		width: 116.5px;
+		height: 77.5px;
+		position: absolute;
+		top: 35px;
+		left: 2px;
+	}
+	.picture22 img{
+		width: 118.5px;
+		height: 62px;
+		position: absolute;
+		top: 113.5px;
+	}
+	.picture23 img{
+		width: 116.5px;
+		height: 77.5px;
+		position: absolute;
+		top: 35px;
+		left: 123.5px;
+	}
+	.picture24 img{
+		width: 118.5px;
+		height: 62px;
+		position: absolute;
+		top: 113.5px;
+		left: 122.5px;
+	}
+	.picture25 img{
+		width: 116.5px;
+		height: 77.5px;
+		position: absolute;
+		top: 35px;
+		left: 244px;
+	}
+	.picture26 img{
+		width: 118.5px;
+		height: 62px;
+		position: absolute;
+		top: 113.5px;
+		left: 243px;
+	}
+	.picture27 img{
+		width: 116.5px;
+		height: 77.5px;
+		position: absolute;
+		top: 35px;
+		left: 364.5px;
+	}
+	.picture28 img{
+		width: 118.5px;
+		height: 62px;
+		position: absolute;
+		top: 113.5px;
+		left: 363.5px;
+	}
+	.picture29 img{
+		width: 116.5px;
+		height: 77.5px;
+		position: absolute;
+		top: 35px;
+		right: 0px;
+	}
+	.picture30 img{
+		width: 118.5px;
+		height: 62px;
+		position: absolute;
+		top: 113.5px;
+		right: 0;
+	}
+	.wenzii21 a{
+		width:92px;
+		height:17px;
+		font-size:7px;
+		font-family:Microsoft YaHei;
+		font-weight:400;
+		color:rgba(5,5,5,1);
+		line-height:10px;
+		position: absolute;
+		top: 125.5px;
+		left: 13.5px;
+	}
+	.wenzii22{
+		width: 100px;
+		height: 6.5px;
+		font-size: 6.5px;
+		font-family:Microsoft YaHei;
+		font-weight:400;
+		color:rgba(108,108,108,1);
+		position: absolute;
+		top: 151.5px;
+		left: 13.5px;
+
+	}
+	.wenzii23 a{
+		width:92px;
+		height:17px;
+		font-size:7px;
+		font-family:Microsoft YaHei;
+		font-weight:400;
+		color:rgba(5,5,5,1);
+		line-height:10px;
+		position: absolute;
+		top: 125.5px;
+		left: 137px;
+	}
+	.wenzii24{
+		width: 100px;
+		height: 6.5px;
+		font-size: 6.5px;
+		font-family:Microsoft YaHei;
+		font-weight:400;
+		color:rgba(108,108,108,1);
+		position: absolute;
+		top: 151.5px;
+		left: 137px;
+	}
+	.wenzii25 a{
+		width:92px;
+		height:17px;
+		font-size:7px;
+		font-family:Microsoft YaHei;
+		font-weight:400;
+		color:rgba(5,5,5,1);
+		line-height:10px;
+		position: absolute;
+		top: 125.5px;
+		left: 259.5px;
+	}
+	.wenzii26{
+		width: 100px;
+		height: 6.5px;
+		font-size: 6.5px;
+		font-family:Microsoft YaHei;
+		font-weight:400;
+		color:rgba(108,108,108,1);
+		position: absolute;
+		top: 151.5px;
+		left: 259.5px;
+	}
+	.wenzii27 a{
+		width:92px;
+		height:17px;
+		font-size:7px;
+		font-family:Microsoft YaHei;
+		font-weight:400;
+		color:rgba(5,5,5,1);
+		line-height:10px;
+		position: absolute;
+		top: 125.5px;
+		left: 382px;
+	}
+	.wenzii28{
+		width: 100px;
+		height: 6.5px;
+		font-size: 6.5px;
+		font-family:Microsoft YaHei;
+		font-weight:400;
+		color:rgba(108,108,108,1);
+		position: absolute;
+		top: 151.5px;
+		left: 382px;
+	}
+	.wenzii29 a{
+		width:92px;
+		height:17px;
+		font-size:7px;
+		font-family:Microsoft YaHei;
+		font-weight:400;
+		color:rgba(5,5,5,1);
+		line-height:10px;
+		position: absolute;
+		top: 125.5px;
+		left: 505.5px;
+	}
+	.wenzii30{
+		width: 100px;
+		height: 6.5px;
+		font-size: 6.5px;
+		font-family:Microsoft YaHei;
+		font-weight:400;
+		color:rgba(108,108,108,1);
+		position: absolute;
+		top: 151.5px;
+		left: 505.5px;
+	}
+.body5{
+	position: absolute;
+	top: 777.5px;
+	left: 180px;
+	width: 600px;
+	height: 300px;
+}
+	.div6 a{
+	width:70px;
+	height:10px;
+	font-size:10px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:rgba(73,73,73,1);
+	position: absolute;
+	top: 18.5px;
+	left: 1px;
+	}
+	.picture31 img{
+		width: 235.5px;
+		height: 160px;
+		position: absolute;
+		top: 43.5px;
+		left: 0;
+	}
+	.picture32 img{
+		width: 116px;
+		height: 170px;
+		position: absolute;
+		top: 43.5px;
+		left: 241px;
+	}
+	.picture33 img{
+		width: 118px;
+		height: 170px;
+		position: absolute;
+		top: 43.5px;
+		left: 362.5px;
+	}
+	.picture34 img{
+		width: 118px;
+		height: 170px;
+		position: absolute;
+		top: 40.5px;
+		left: 484px;
+	}
+	.tt1{ 
+		width: 81.5px;
+		height: 31px;
+		position: absolute;
+		top: 100px;
+		left: 12.5px;
+	}
+	.ttt1{
+		width:82px;
+		height:16px;
+		font-size:15px;
+		font-family:Microsoft YaHei;
+		font-weight:bold;
+		color:rgba(249,225,3,1);
+		line-height:18px;
+	}
+	.ttt2{
+		width:82px;
+		height:15px;
+		font-size:13px;
+		font-family:Microsoft YaHei;
+		font-weight:bold;
+		color:rgba(255, 255, 255, 1);
+		line-height:18px;
+	}
+	.tt2{
+		width: 43.5px;
+		height: 12.5px;
+		position: absolute;
+		top: 140px;
+		left: 12.5px;
+		border: 1px rgba(249,225,3,1) dashed;
+	}
+	.ttt3{
+		width:43.5px;
+		height:7px;
+		font-size:7px;
+		font-family:Microsoft YaHei;
+		font-weight:400;
+		color:rgba(249,225,3,1);
+		line-height:10px;
+		position: absolute;
+				top: 10%;
+				left: 10%;
+				bottom: 0;
+				right: 0;
+	}
+	.tt3 img{
+		width: 118px;
+		height: 61.5px;
+		position: absolute;
+		left: 240.5px;
+		top: 141px;
+	}
+	.tt4 img{
+		width: 118px;
+		height: 61.5px;
+		position: absolute;
+		left: 361.5px;
+		top: 141px;
+	}
+	.tt5 img{
+		width: 118px;
+		height: 61.5px;
+		position: absolute;
+		left: 482px;
+		top: 141px;
+	}
+	.ttt4{
+		width:70px;
+		height:9px;
+		font-size:5px;
+		font-family:Microsoft YaHei;
+		font-weight:bold;
+		color:rgba(255,255,255,1);
+		line-height:10px;
+		position: absolute;
+		top: 151.5px;
+		left: 250px;
+	}
+	.ttt5{
+		width:88px;
+		height:27px;
+		font-size:5px;
+		font-family:Microsoft YaHei;
+		font-weight:400;
+		color:rgba(255,255,255,1);
+		line-height:10px;
+		position: absolute;
+		top: 166.5px;
+		left: 250px;
+	}
+	.ttt6{
+		width:70px;
+		height:9px;
+		font-size:5px;
+		font-family:Microsoft YaHei;
+		font-weight:bold;
+		color:rgba(255,255,255,1);
+		line-height:10px;
+		position: absolute;
+		top: 151.5px;
+		left: 373px;
+	}
+	.ttt7{
+		width:88px;
+		height:27px;
+		font-size:5px;
+		font-family:Microsoft YaHei;
+		font-weight:400;
+		color:rgba(255,255,255,1);
+		line-height:10px;
+		position: absolute;
+		top: 166.5px;
+		left: 373px;
+	}
+	.ttt8{
+		width:70px;
+		height:9px;
+		font-size:5px;
+		font-family:Microsoft YaHei;
+		font-weight:bold;
+		color:rgba(255,255,255,1);
+		line-height:10px;
+		position: absolute;
+		top: 151.5px;
+		left: 496px;
+	}
+	.ttt9{
+		width:88px;
+		height:27px;
+		font-size:5px;
+		font-family:Microsoft YaHei;
+		font-weight:400;
+		color:rgba(255,255,255,1);
+		line-height:10px;
+		position: absolute;
+		top: 166.5px;
+		left: 496px;
+	}
+	.color{
+		font-size: 9px;
+		color: white;
+	}
+.end{
+	position: absolute;
+	top: 1024px;
+	width: 960px;
+	height: 210px;
+	background-image:url(f:/web开发/雪梨作业/矩形 16@2x.png);
+	border: 1px dashed rgba(108,108,108,0.6);
+}
+	.tupian img{
+		width: 71.5px;
+		height: 18px;
+		position: absolute;
+		top: 62px;
+		left: 190px;
+	}
+	.tupian2 img{
+		width: 96px;
+		height: 1px;
+		position: absolute;
+		top: 90px;
+		left: 190px;
+	}
+	.ziyou1{
+		width:210px;
+		height:6px;
+		font-size:6px;
+		font-family:SimSun;
+		font-weight:400;
+		color:rgba(101,101,101,1);
+		line-height:9px;
+		position: absolute;
+		left: 191px;
+		top: 98px;
+	}
+	.ziyou2{
+		width: 60px;
+		height: 18px;
+		border: 1px rgba(0,164,255,1) dashed;
+		position: absolute;
+		top: 120px;
+		left: 190.5px;
+	}
+	.ziyou3 a{
+		width:31px;
+		height:7px;
+		font-size:8px;
+		font-family:Microsoft YaHei;
+		font-weight:400;
+		color:rgba(0,163,255,1);
+		line-height:9px;
+		position: absolute;
+		top: 5px;
+		left: 15px;
+	}
+	.you1{
+		width: 50px;
+		height: 8.5px;
+		font-size:8px;
+		font-family:Microsoft YaHei;
+		font-weight:400;
+		color:rgba(51,51,51,1);
+		line-height:11px;
+		position: absolute;
+		top: 64.5px;
+		left: 513px;
+	}
+	.you2{
+		width: 39.5px;
+		height: 8.5px;
+		font-size:8px;
+		font-family:Microsoft YaHei;
+		font-weight:400;
+		color:rgba(51,51,51,1);
+		line-height:11px;
+		position: absolute;
+		top: 64.5px;
+		left: 625.5px;
+	}
+	.you3{
+		width: 39.5px;
+		height: 8.5px;
+		font-size:8px;
+		font-family:Microsoft YaHei;
+		font-weight:400;
+		color:rgba(51,51,51,1);
+		line-height:11px;
+		position: absolute;
+		top: 64.5px;
+		left: 733.5px;
+	}
+	.youxi1{
+		width: 23.5px;
+		height: 48px;
+		position: absolute;
+		top: 80.5px;
+		left: 513px;
+	}
+	.youxi2{
+		width: 47.5px;
+		height: 48px;
+		position: absolute;
+		top: 80.5px;
+		left: 625.5px;
+	}
+	.youxi3{
+		width: 23.5px;
+		height: 16.5px;
+		position: absolute;
+		top: 80.5px;
+		left: 734.5px;
+	}
